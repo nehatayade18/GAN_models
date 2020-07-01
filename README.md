@@ -3,7 +3,7 @@ Image Super-Resolution is the task of generating a high-resolution output image 
 
 For example, we can take a low-res image from Hubble telescope (upper) and transform it into a high-resolution image (bottom).
 
-<img src="img/OE_51_1_011011_f008.png" width="300"/>
+<img src="img/super_resolution.png" width="300"/>
 
 Common resizing methods like those from OpenCV and Scipy libraries use different [interpolation](https://en.wikipedia.org/wiki/Interpolation) approaches to estimate the value of the intermediate pixels based on the values of nearby pixels. The problem of such techniques is that as they smooth the spaces in between in the image, some visual details like sharp edges are often not preserved. 
 
