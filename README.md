@@ -92,7 +92,7 @@ Mid-Res Image                                               |  Reconstructed Ima
 * The way it works is that the Discriminator takes an input image from the Generator and tries to guess if it's real or fake. The Generator's end goal is to learn to fool the Discriminator into thinking that the generated images are real.  This interesting zero-sum game between the two models motivates them both to improve their own functionalities.
 
 <img src="img/GAN-schema.png" width="500"/>
-#<sup> GAN architecture </sup>
+<sup> GAN architecture </sup>
 
 
 [**Tutorial: Image Super Resolution - Part I: Method 2**](image_superres_part1_fastai.ipynb) 
