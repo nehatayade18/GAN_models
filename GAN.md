@@ -16,23 +16,23 @@ Style transfer
 Text to Image generation
 
 ## Examples:
-Generate Examples for Image Datasets
-Generate Photographs of Human Faces
-Generate Realistic Photographs
-Generate Cartoon Characters
-Image-to-Image Translation
-Text-to-Image Translation
-Semantic-Image-to-Photo Translation
-Face Frontal View Generation
-Generate New Human Poses
-Photos to Emojis
-Photograph Editing
-Face Aging
-Photo Blending
-Super Resolution
-Photo Inpainting
-Clothing Translation
-Video Prediction
-3D Object Generation
+* Generate Examples for Image Datasets
+* Generate Photographs of Human Faces
+* Generate Realistic Photographs
+* Generate Cartoon Characters
+* Image-to-Image Translation
+* Text-to-Image Translation
+* Semantic-Image-to-Photo Translation
+* Face Frontal View Generation
+* Generate New Human Poses
+* Photos to Emojis
+* Photograph Editing
+* Face Aging
+* Photo Blending
+* Super Resolution
+* Photo Inpainting
+* Clothing Translation
+* Video Prediction
+* 3D Object Generation
 
 Ref: https://arxiv.org/pdf/1611.07004.pdf
