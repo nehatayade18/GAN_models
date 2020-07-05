@@ -1,5 +1,5 @@
 # Generative models
-
+Conditional GANs: https://cs230.stanford.edu/projects_spring_2018/reports/8289557.pdf
 In 2014, Goodfellow et al. (2014) introduced Generative Adversarial Networks (GANs). They are generative models with the objective of learning the underlying distribution of training data in order to generate new realistic data samples which are indistinguishable from the input dataset. Prior to the introduction of GANs, state-of-the-art generation models, such as Variational Autoencoders (VAE) (Kingma and Welling, 2013, Rezende et al., 2014), tackled this task by performing explicit density estimation. GANs constitute an alternative to this by defining a high-level goal such as “generate output data samples which are indistinguishable from input data” and minimizing the loss function through a second adversarial network instead of explicitly defining it.
 
 ### GAN Architecture(follows game theory)- GENERATOR(ENCODER+DECODER)-generates candidates & DISCRIMINATOR-evaluates candidates
